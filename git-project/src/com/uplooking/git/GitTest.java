@@ -13,4 +13,8 @@ public class GitTest {
         System.out.println("欢迎开始！！！！");
         System.out.println("欢迎开始！！！！");
     }
+
+    public void test(){
+
+    }
 }
